@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante na faculdade FIAP<br>👯 Aberto para estágio<br>🌱 Estudando principalmente Java|Backend<br>
+🔭 Sou estudante na faculdade FIAP<br>👯 Estagiário de desenvolvimnento na EagleBS<br>🌱 Estudando principalmente Java|Backend<br>
 
 
 ## 🌐 Socials:
